@@ -1,0 +1,17 @@
+matplotlib=3.2.2
+mss==6.1.0
+numpy==1.22.4
+numpy=1.18.5
+opencv-python=4.1.1
+pandas=1.4.2
+Pillow=7.1.2
+protobuf=3.20.1
+pyautogui=0.9.53
+PyYAML=5.3.1
+requests=2.23.0
+seaborn=0.11.0
+torch=1.7.0
+torchvision=0.8.1
+tqdm=4.41.0
+ipython
+psutil
